@@ -1,11 +1,11 @@
-# Unity_Inventory
+![image](https://github.com/user-attachments/assets/3bda8b70-8a56-4e3f-8d2d-9580abc89607)# Unity_Inventory
 UI system
 
 ![Image](https://github.com/user-attachments/assets/c5d2fde0-be27-4f33-867c-e3581459f257)
 
 UI Inventory 구현 개인과제
 
-- 구현 목록
+// 구현 목록
 
   
 UI 구성하기 (UGUI를 활용해 UIMainMenu, UIStatus, UIInventory 구성을 완료)	*완료
@@ -29,3 +29,12 @@ Item 데이터 준비하기 (보여질 아이템 스크립트 완성)	*완료
 - 아이템정보는 구현은 했으나 , 사용이나 장착 등의 기능 미구현
 
 Status에 아이템 정보 반영 (Status에 장착한 아이템 정보가 반영됨)
+
+
+![Image](https://github.com/user-attachments/assets/f9bd7608-96cd-4df9-a0bd-1a19fc9b2561)
+
+Status 를 프로그래밍 능력치로 표현하였습니다.
+
+![Image](https://github.com/user-attachments/assets/da708cd0-445f-46d8-97e2-eb2de9297688)
+
+프로그래밍 하며 필요한 아이템을 아이템으로 표현 하였습니다.
