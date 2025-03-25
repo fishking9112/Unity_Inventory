@@ -79,7 +79,7 @@ public class UIInventory : MonoBehaviour
     private UISlot GetEmptySlot()
     {
 
-        for(int i = 0; i < inventorySize; i++)
+        for(int i = 0; i < uiSlot_List.Count; i++)
         {
             if (uiSlot_List[i].itemData == null)
             {
